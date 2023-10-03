@@ -1,0 +1,262 @@
+[
+    {
+        "_id": 1,
+        "book_name": "Pride and Prejudice",
+        "author": {
+            "name": "Leo Tolstoy"
+        },
+        "price": 5.72,
+        "rating": 4.8,
+        "publication": {
+            "year": 1917,
+            "state": "Chicago"
+        }
+    },
+    {
+        "_id": 2,
+        "book_name": "The Hobbit",
+        "author": {
+            "name": "J.R.R. Tolkien"
+        },
+        "price": 23.0,
+        "rating": 4.7,
+        "publication": {
+            "year": 1831,
+            "state": "New York"
+        }
+    },
+    {
+        "_id": 3,
+        "book_name": "The Catcher in the Rye",
+        "author": {
+            "name": "J.R.R. Tolkien"
+        },
+        "price": 25.82,
+        "rating": 4.4,
+        "publication": {
+            "year": 2015,
+            "state": "Chicago"
+        }
+    },
+    {
+        "_id": 4,
+        "book_name": "Pride and Prejudice",
+        "author": {
+            "name": "Leo Tolstoy"
+        },
+        "price": 25.7,
+        "rating": 4.9,
+        "publication": {
+            "year": 2020,
+            "state": "Tokyo"
+        }
+    },
+    {
+        "_id": 5,
+        "book_name": "The Great Gatsby",
+        "author": {
+            "name": "George Orwell"
+        },
+        "price": 27.0,
+        "rating": 4.6,
+        "publication": {
+            "year": 1887,
+            "state": "Sydney"
+        }
+    },
+    {
+        "_id": 6,
+        "book_name": "Pride and Prejudice",
+        "author": {
+            "name": "Jane Austen"
+        },
+        "price": 16.83,
+        "rating": 4.4,
+        "publication": {
+            "year": 1906,
+            "state": "London"
+        }
+    },
+    {
+        "_id": 7,
+        "book_name": "The Great Gatsby",
+        "author": {
+            "name": "Leo Tolstoy"
+        },
+        "price": 12.35,
+        "rating": 4.9,
+        "publication": {
+            "year": 1856,
+            "state": "New York"
+        }
+    },
+    {
+        "_id": 8,
+        "book_name": "The Catcher in the Rye",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 10.53,
+        "rating": 4.4,
+        "publication": {
+            "year": 2021,
+            "state": "London"
+        }
+    },
+    {
+        "_id": 9,
+        "book_name": "Pride and Prejudice",
+        "author": {
+            "name": "Jane Austen"
+        },
+        "price": 25.21,
+        "rating": 4.4,
+        "publication": {
+            "year": 1956,
+            "state": "Paris"
+        }
+    },
+    {
+        "_id": 10,
+        "book_name": "The Catcher in the Rye",
+        "author": {
+            "name": "Herman Melville"
+        },
+        "price": 13.53,
+        "rating": 4.5,
+        "publication": {
+            "year": 1999,
+            "state": "Tokyo"
+        }
+    },
+    {
+        "_id": 11,
+        "book_name": "1984",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 13.42,
+        "rating": 4.6,
+        "publication": {
+            "year": 1872,
+            "state": "Paris"
+        }
+    },
+    {
+        "_id": 12,
+        "book_name": "The Lord of the Rings",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 20.85,
+        "rating": 4.5,
+        "publication": {
+            "year": 1924,
+            "state": "London"
+        }
+    },
+    {
+        "_id": 13,
+        "book_name": "Pride and Prejudice",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 25.56,
+        "rating": 4.6,
+        "publication": {
+            "year": 1947,
+            "state": "Los Angeles"
+        }
+    },
+    {
+        "_id": 14,
+        "book_name": "War and Peace",
+        "author": {
+            "name": "F. Scott Fitzgerald"
+        },
+        "price": 23.67,
+        "rating": 4.7,
+        "publication": {
+            "year": 1808,
+            "state": "Berlin"
+        }
+    },
+    {
+        "_id": 15,
+        "book_name": "Moby-Dick",
+        "author": {
+            "name": "F. Scott Fitzgerald"
+        },
+        "price": 17.33,
+        "rating": 4.2,
+        "publication": {
+            "year": 1896,
+            "state": "Los Angeles"
+        }
+    },
+    {
+        "_id": 16,
+        "book_name": "Moby-Dick",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 18.8,
+        "rating": 4.6,
+        "publication": {
+            "year": 1826,
+            "state": "Los Angeles"
+        }
+    },
+    {
+        "_id": 17,
+        "book_name": "The Great Gatsby",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 18.44,
+        "rating": 4.2,
+        "publication": {
+            "year": 1936,
+            "state": "Berlin"
+        }
+    },
+    {
+        "_id": 18,
+        "book_name": "The Lord of the Rings",
+        "author": {
+            "name": "F. Scott Fitzgerald"
+        },
+        "price": 14.91,
+        "rating": 4.7,
+        "publication": {
+            "year": 1872,
+            "state": "Los Angeles"
+        }
+    },
+    {
+        "_id": 19,
+        "book_name": "To Kill a Mockingbird",
+        "author": {
+            "name": "J.R.R. Tolkien"
+        },
+        "price": 8.08,
+        "rating": 4.8,
+        "publication": {
+            "year": 1915,
+            "state": "Berlin"
+        }
+    },
+    {
+        "_id": 20,
+        "book_name": "The Lord of the Rings",
+        "author": {
+            "name": "Harper Lee"
+        },
+        "price": 25.53,
+        "rating": 4.7,
+        "publication": {
+            "year": 1971,
+            "state": "Los Angeles"
+        }
+    }
+]
